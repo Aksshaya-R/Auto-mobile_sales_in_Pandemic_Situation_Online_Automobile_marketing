@@ -1,0 +1,21 @@
+
+audi         13L          automatic             5               suv         petrol
+Hyundai      11L          automatic             5              sedan        diesel
+Tata         12L           manual               5               suv         petrol
+Maruti       7L            manual               5              sedan        petrol
+Toyota       35L          automatic             7               suv          cng
+honda        8L           automatic             7              sedan        petrol
+ford         20L           manual               7              sedan        petrol
+jaguar       25L           manual               8               suv         petrol                      
+nissan       12L           manual               8              sedan         cng
+Lexus LX     2C           automatic             8               suv         petrol
+mercury      34L          automatic             8              sedan        diesel
+suzhuki      25L          automatic             8               suv         diesel
+Toyota       35L           manual               7               suv          cng
+tesla        8L            manual               7              sedan       electric
+ volvo       12L          automatic             5               suv         diesel
+Toyota       20L          automatic             7              sedan        diesel
+Hyundai      16L           manual               5              sedan          cng
+Lexus LX     21L            manual              8              sedan       electric
+Triton       1C           automatic             8               suv        electric 
+Maruti       7L           automatic             5              sedan       electric
